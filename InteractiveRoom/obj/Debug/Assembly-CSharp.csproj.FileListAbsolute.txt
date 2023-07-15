@@ -1,0 +1,2 @@
+/Users/alex-spiian/Downloads/Room/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+/Users/alex-spiian/Downloads/Room/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
